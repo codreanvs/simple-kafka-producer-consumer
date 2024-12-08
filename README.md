@@ -21,6 +21,10 @@ Gradle command to build
 - Check health check endpoint is UP
   `http://localhost:8080/api/v1/actuator/health`
 
+
+
+  
+
 - Run Kafka Consumer Service
   `run com/codreanvs/kafka/KafkaConsumerService.main()`
 - Check health check endpoint is UP
